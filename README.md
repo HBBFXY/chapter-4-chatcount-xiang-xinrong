@@ -3,7 +3,6 @@ letters = 0
 digits = 0
 spaces = 0
 others = 0
-
 for char in line:
     if char.isalpha():
         letters += 1
